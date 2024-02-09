@@ -1,0 +1,20 @@
+{
+
+    "name":"Luis Caro PWA",
+    "short_name":"LCM-PWA",
+    "description":"Aplicación PWA de materia web Progresivas",
+    "background_color":"#FFF",
+    "theme_color":"#FB314E",
+    "orientation":"landscape",
+    "display":"standalon",
+    "start_url":"./index.html?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[
+        {
+            "src":"./img/favicon-1024.png",
+            "sizes":"1024*1024",
+            "type":"image/png"
+        }
+    ]
+}
