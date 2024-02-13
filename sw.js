@@ -3,7 +3,10 @@ const CACHE_NAME='v1,cache_BCH_PWA';
 
 //configuracion de los ficheros a subir a la cache de la aplicacion
 var urlsToCache= [
-    './'
+    './',
+    'index.html',
+    'main.js',
+    'manifest.json'
 ];
 
 
